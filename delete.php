@@ -8,5 +8,4 @@ if (isset($_POST['id'])) {
 } else {
 	die("Access Denied");
 }
-
-?>
+hallo
