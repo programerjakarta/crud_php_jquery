@@ -9,3 +9,4 @@ if (isset($_POST['id'])) {
 	die("Access Denied");
 }
 hallo
+bismillah
